@@ -1,4 +1,8 @@
-import React from 'react'
+
+
+export const metadata = {
+  title: "Acerca de Mi - Portfolio Franco Campos"
+}
 
 function About() {
   return (

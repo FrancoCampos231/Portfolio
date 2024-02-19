@@ -1,6 +1,8 @@
 import Link from "next/link"
 
-
+export  const metadata = {
+    title: "Mis proyectos - Portfolio Franco Campos"
+}
 
 const Proyects = () => {
     return (
