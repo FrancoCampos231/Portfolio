@@ -1,0 +1,10 @@
+.nabvar{
+    background-color: #08b2e6;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 2rem;
+    align-items: center;
+}
+
+.nabvar ul {
+    font-palette: #03f43b;
+}

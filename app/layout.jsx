@@ -20,7 +20,7 @@ const permanentM = Permanent_Marker({
 export default function RootLayout({ children }) {
  return (
     <html lang="en">
-      <body className={permanentM.className}>
+      <body>
       <nav>
         <Navbar/>
       </nav>
